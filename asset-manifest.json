@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/BR-Jayanth/Tenzies/static/css/main.7ff39d57.css",
-    "main.js": "/BR-Jayanth/Tenzies/static/js/main.b55a83ae.js",
+    "main.js": "/BR-Jayanth/Tenzies/static/js/main.80f90f71.js",
     "static/js/453.39a1d5eb.chunk.js": "/BR-Jayanth/Tenzies/static/js/453.39a1d5eb.chunk.js",
     "static/media/66.png": "/BR-Jayanth/Tenzies/static/media/66.0778ed65b7499b1aff9f.png",
     "static/media/6.png": "/BR-Jayanth/Tenzies/static/media/6.564c868984122ca1c092.png",
     "index.html": "/BR-Jayanth/Tenzies/index.html",
     "main.7ff39d57.css.map": "/BR-Jayanth/Tenzies/static/css/main.7ff39d57.css.map",
-    "main.b55a83ae.js.map": "/BR-Jayanth/Tenzies/static/js/main.b55a83ae.js.map",
+    "main.80f90f71.js.map": "/BR-Jayanth/Tenzies/static/js/main.80f90f71.js.map",
     "453.39a1d5eb.chunk.js.map": "/BR-Jayanth/Tenzies/static/js/453.39a1d5eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ff39d57.css",
-    "static/js/main.b55a83ae.js"
+    "static/js/main.80f90f71.js"
   ]
 }
