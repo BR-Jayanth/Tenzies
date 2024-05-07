@@ -56,12 +56,12 @@ function App() {
   const holdDice = (id) => {
     // holds the value of dies
     setDice((prevArrayofNumber) => {
-      let newArrayOfNumber = prevArrayofNumber.map((die) => {
+      let newdice = prevDice.map((die) => {
         return die.id === id ?
           { ...die, isHeld: !die.isHeld, }
           : die;
       })
-      return newArrayOfNumber;
+      return newdice;
     })
     console.log(dice);
   }
