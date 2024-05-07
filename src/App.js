@@ -55,7 +55,7 @@ function App() {
   }
   const holdDice = (id) => {
     // holds the value of dies
-    setDice((prevArrayofNumber) => {
+    setDice((prevDice) => {
       let newdice = prevDice.map((die) => {
         return die.id === id ?
           { ...die, isHeld: !die.isHeld, }
